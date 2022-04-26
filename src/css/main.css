@@ -126,3 +126,37 @@ header nav a:hover{
     display: block;
     cursor:pointer;
 }
+
+/* CSS do footer */
+
+
+footer .container{
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    margin-bottom: 30px;
+
+}
+
+footer .row{
+    display: flex;
+}
+
+footer .column{
+    flex: 25%;
+}
+
+footer a:hover{
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+
+}
